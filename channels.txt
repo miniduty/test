@@ -1,0 +1,4 @@
+name= AMC url= "http://disfruta.club:8000/live/deysi/deysi/7797.ts" logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png"
+
+name= NETGEO PEOPLE url= "http://24.thgss.com:8000/live/mobachir3123/X4ZxvKhSRx/941.ts" logo= "https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png"
+
