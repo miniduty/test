@@ -4,3 +4,4 @@ name= MTV url= "http://www.e900x.com:8000/live/kris/kris/379.ts" logo= "http://m
 
 name= MBC ACTION url= "http://www.e900x.com:8000/live/kris/kris/1652.ts" logo= "http://logonoid.com/images/mbc-logo.png"
 
+name= MBC 2 url= "http://www.e900x.com:8000/live/kris/kris/1970.ts" logo= "http://logonoid.com/images/mbc-logo.png"
