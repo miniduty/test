@@ -2,4 +2,5 @@ name= NETGEO PEOPLE url= "http://24.thgss.com:8000/live/mobachir3123/X4ZxvKhSRx/
 
 name= MTV url= "http://www.e900x.com:8000/live/kris/kris/379.ts" logo= "http://mtv.com.lb/Content/images/logo-header.jpg"
 
+name= MBC ACTION url= "http://www.e900x.com:8000/live/kris/kris/1652.ts" logo= "http://logonoid.com/images/mbc-logo.png"
 
